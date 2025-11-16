@@ -1,5 +1,6 @@
 
 # 🎓 LMS Platform — Fullstack (Java 21 + Spring Boot 3 + React)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a6007a79-ebe1-4626-96c0-701dc5b40a37" />
 
 A complete learning management platform inspired by Alura/Udemy, built with **Java 21**, **Spring Boot 3**, **React**, **PostgreSQL**, **JWT authentication**, and **Docker**.  
 This project was developed to demonstrate real-world fullstack architecture, clean code, and strong backend + frontend engineering skills.
